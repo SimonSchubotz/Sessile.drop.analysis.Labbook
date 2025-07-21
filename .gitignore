@@ -1,10 +1,6 @@
-.vscode/
 Sample/
 Dockerfile
-buffer/
-*.build/
-*.dist/
-*.md.backup
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -31,7 +27,6 @@ var/
 *.egg-info/
 .installed.cfg
 *.egg
-drop_analysis/version.py
 
 # PyInstaller
 #  Usually these files are written by a python script from a template

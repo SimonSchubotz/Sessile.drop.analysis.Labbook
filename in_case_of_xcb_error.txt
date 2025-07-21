@@ -1,0 +1,2 @@
+the plugin of cv2 needs to be deleted
+https://forum.qt.io/topic/119109/using-pyqt5-with-opencv-python-cv2-causes-error-could-not-load-qt-platform-plugin-xcb-even-though-it-was-found/6
