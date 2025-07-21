@@ -6,5 +6,6 @@ authors:
     orcid: "https://orcid.org/0000-0001-8659-7132"
 title: "Sessile.drop.analysis.Labbook"
 version: 1.0.0
+doi: 10.5281/zenodo.16279486
 date-released: 2025-07-21
 repository-code: "https://github.com/SimonSchubotz/Sessile.drop.analysis.Labbook"
