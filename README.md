@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/1023713966.svg)](https://doi.org/10.5281/zenodo.16279485)
 # Python sessile drop analysis
 [![Element Android Matrix room #Sessile.Drop.Analysis:matrix.vgorcum.com](https://img.shields.io/matrix/Sessile.Drop.Analysis:matrix.vgorcum.com.svg?label=%23Sessile.Drop.Analysis:matrix.vgorcum.com&logo=matrix&server_fqdn=matrix.org)](https://matrix.to/#/#Sessile.Drop.Analysis:matrix.vgorcum.com)
 
